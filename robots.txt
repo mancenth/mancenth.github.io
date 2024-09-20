@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mancenth.github.io/sitemap.html.gz
+Sitemap: https://mancenth.github.io/app/sitemap.html.gz
+Sitemap: https://mancenth.github.io/assets/sitemap.html.gz
+Sitemap: https://mancenth.github.io/css/sitemap.html.gz
+Sitemap: https://mancenth.github.io/data/sitemap.html.gz
+Sitemap: https://mancenth.github.io/includes/sitemap.html.gz
+Sitemap: https://mancenth.github.io/item/sitemap.html.gz
+Sitemap: https://mancenth.github.io/src/sitemap.html.gz
